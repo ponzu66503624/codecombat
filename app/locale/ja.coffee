@@ -58,11 +58,11 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
 #    boast: "Boasts riddles that are complex enough to fascinate gamers and coders alike."
 #    winning: "A winning combination of RPG gameplay and programming homework that pulls off making kid-friendly education legitimately enjoyable."
 #    run_class: "Everything you need to run a computer science class in your school today, no CS background required."
-#    goto_classes: "Go to My Classes"
-#    view_profile: "View My Profile"
-#    view_progress: "View Progress"
-#    go_to_courses: "Go to My Courses"
-#    want_coco: "Want CodeCombat at your school?"
+    goto_classes:"自分のクラスに行く" #"Go to My Classes"
+    view_profile: "プロフィールを見る"
+    view_progress:"進捗状況を見る" #"View Progress"
+    go_to_courses: "進み具合を見に行く"
+    want_coco:"あなたの学校でCodecombatを導入したいですか？" #"Want CodeCombat at your school?"
 
   nav:
     play: "ゲームマップへ" # The top nav bar entry where players choose which levels to play
